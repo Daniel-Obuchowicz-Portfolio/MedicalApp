@@ -1,3 +1,8 @@
+# Project Overview
+
+They were supposed to get back to me, but in the end, they didn't ¯\_(ツ)_/¯. This project was initially a task to convert a design from Adobe XD into code, which I accomplished using React and Tailwind CSS. The project currently integrates with an external API and focuses on a single view. However, I plan to enhance this panel in the future by adding more views and features.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
