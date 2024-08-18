@@ -1,6 +1,6 @@
 # Project Overview
 
-A certain company was supposed to get back to me after I submitted the task, but they never did ¯\\_(ツ)_/¯. Oh well, they probably decided I’m too strong for them. The project was initially a task to convert a design from Adobe XD into code, which I completed using React and Tailwind CSS. Now, the project integrates with an external API and focuses on a single view. However, I plan to enhance this panel in the future by adding more views and features.
+A certain company was supposed to get back to me after I submitted the task, but they never did ¯\\_ (ツ) _/¯. Oh well, they probably decided I’m too strong for them. The project was initially a task to convert a design from Adobe XD into code, which I completed using React and Tailwind CSS. Now, the project integrates with an external API and focuses on a single view. However, I plan to enhance this panel in the future by adding more views and features.
 
 
 # Getting Started with Create React App
